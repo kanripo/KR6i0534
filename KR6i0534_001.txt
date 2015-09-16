@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:02.481894
+#+DATE: 2015-08-30 20:22:03.840721
 #+TITLE: 無字寶篋經
 #+PROPERTY: CBETA_ID T17n0828
 #+PROPERTY: ID KR6i0534
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 828
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0534_T_000-0870c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0534_T_001-0870c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.828[Nos.829,830]¶
-
- 《無字寶篋經》¶
+No. 828 [Nos. 829, 830]¶
+《無字寶篋經》¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
