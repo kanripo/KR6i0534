@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 828
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0534_T_000-0870c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0534_T_001-0870c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -149,7 +149,7 @@ No. 828 [Nos. 829, 830]¶
 
 「善男子！我亦復說一切諸法如幻如焰，是佛¶
 所覺。性相一味解脫之法，是佛所覺。所有性¶
-相一味解脫，是一切法廣博嚴藏。¶
+相一味解脫，是一切法廣博嚴蔵。¶
 
 「善男子！若善男子、善女人，復有一法，是佛所¶
 覺。善男子！所謂：諸法不去不來、無因無緣、無¶
